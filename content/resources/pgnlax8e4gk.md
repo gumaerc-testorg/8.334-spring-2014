@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/4fe8afad010d2d844a2a5df25d83a7af_PGnLAx8e4Gk.srt
+file: /media/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/4fe8afad010d2d844a2a5df25d83a7af_PGnLAx8e4Gk.srt
 file_type: application/x-subrip
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Other
 title: 3play caption file
 uid: 4fe8afad-010d-2d84-4a2a-5df25d83a7af

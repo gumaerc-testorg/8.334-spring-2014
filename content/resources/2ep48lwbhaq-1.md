@@ -1,8 +1,10 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/8221319fddacc25d0326922a999d7892_2Ep48LwBhAQ.pdf
+file: /media/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/8221319fddacc25d0326922a999d7892_2Ep48LwBhAQ.pdf
 file_type: application/pdf
+learning_resource_types: []
+ocw_type: OCWFile
 resourcetype: Document
 title: 3play pdf file
 uid: 8221319f-ddac-c25d-0326-922a999d7892
