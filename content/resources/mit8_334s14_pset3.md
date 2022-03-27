@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: ffa24938-c881-3093-9da9-3e7925cee4df
 resourcetype: Document
 title: 'Statistical Mechanics II: Problem Set 3'
 uid: 73dc054e-e506-66bc-a509-48521c0b863a

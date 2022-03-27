@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: ed28a1e3-681c-36b2-7494-589f920e742e
 resourcetype: Document
 title: 'Statistical Mechanics II: Test 3 Review Problems'
 uid: d07dc879-c7ae-b0f7-5c50-d1e56f8cbc84
