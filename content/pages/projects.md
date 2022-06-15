@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides instructions for the final project of the course
+  and examples of student projects.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

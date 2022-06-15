@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides review problems and solutions for the course exams.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -32,10 +33,10 @@ EXAM REVIEW SOLUTIONS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 1 Review Problems (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview1)
+{{% resource_link 484e59c4-1a2c-4151-808e-f80047336dc2 "Test 1 Review Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 1 Review Solutions (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview_sol1)
+{{% resource_link fcd5f962-7c42-dae6-0ef4-da89c410b7b0 "Test 1 Review Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -44,10 +45,10 @@ EXAM REVIEW SOLUTIONS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 2 Review Problems (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview2)
+{{% resource_link 67ba9ccf-fdc3-e869-776e-b495dc2e993a "Test 2 Review Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 2 Review Solutions (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview_sol2)
+{{% resource_link ece59caf-2248-bfdc-7381-40efdfa8ee2d "Test 2 Review Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,10 +57,10 @@ EXAM REVIEW SOLUTIONS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 3 Review Problems (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview3)
+{{% resource_link d07dc879-c7ae-b0f7-5c50-d1e56f8cbc84 "Test 3 Review Problems (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-[Test 3 Review Solutions (PDF)]({{< baseurl >}}/resources/mit8_334s14_testreview_sol3)
+{{% resource_link 376b14b2-45b9-a664-5cfc-d8a09b191935 "Test 3 Review Solutions (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

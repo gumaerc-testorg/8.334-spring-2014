@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Kardar continues his discussion of The Landau-Ginzburg Approach, including Gaussian Integrals, Fluctuation Corrections to the Saddle Point, The Ginzburg Criterion.
 
 **Instructor:** Prof. Mehran Kardar
+
+
+

@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Kardar introduces the Perturbative Renormalization Group, including the Expectation Values in the Gaussian Model, Expectation Values in Perturbation Theory, Diagrammatic Representation of Perturbation Theory, and Susceptibility.
 
 **Instructor:** Prof. Mehran Kardar
+
+
+

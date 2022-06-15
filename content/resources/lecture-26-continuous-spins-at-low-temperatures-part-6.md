@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
 parent_title: Video Lectures
@@ -27,3 +28,6 @@ video_metadata:
 **Description:** In this lecture, Prof. Kardar continues his discussion on Continuous Spins at Low Temperatures, including Generic Scale Invariance in Equilibrium Systems, Non-equilibrium Dynamics of Open Systems, and Dynamics of a Growing Surface.
 
 **Instructor:** Prof. Mehran Kardar
+
+
+
