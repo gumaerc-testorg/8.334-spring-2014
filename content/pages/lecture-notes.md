@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics by session along
+  with lecture notes from an earlier version of the course.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: b0c714e9-38c6-c784-de13-d617813af98b
 ---
@@ -34,7 +39,7 @@ Introduction, Phonons and Elasticity
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 1 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec1)
+{{% resource_link ad9f1dde-0c56-5779-85cf-f4aa363d23c3 "Lecture Note 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -54,7 +59,7 @@ Introduction, Saddle Point Approximation, and Mean-field Theory
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 2 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec2)
+{{% resource_link 51eb0c6a-f0af-d686-16a4-7c6d070d358e "Lecture Note 2 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -70,7 +75,7 @@ Spontaneous Symmetry Breaking and Goldstone Modes
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 3 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec3)
+{{% resource_link 0467b954-1644-31b5-9100-b5725779e6e4 "Lecture Note 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -86,7 +91,7 @@ Scattering and Fluctuations, Correlation Functions and Susceptibilities, Compari
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 4 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec4)
+{{% resource_link 861b86fa-130f-09b3-25b5-23b006ae0250 "Lecture Note 4 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -102,7 +107,7 @@ Gaussian Integrals, Fluctuation Corrections to the Saddle Point, The Ginzburg Cr
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 5 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec5)
+{{% resource_link 608f0e0b-2ffa-840d-4e51-ee0a592ef823 "Lecture Note 5 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -118,7 +123,7 @@ The Homogeneity Assumption, Divergence of the Correlation Length, Critical Corre
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 6 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec6)
+{{% resource_link 31f360cf-7db5-b660-68ea-cc5240c17aeb "Lecture Note 6 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +139,7 @@ The Renormalization Group (Conceptual), The Renormalization Group (Formal)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 7 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec7)
+{{% resource_link 85f01760-f2ea-1193-c673-baffce5c25e6 "Lecture Note 7 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -150,7 +155,7 @@ The Gaussian Model (Direct Solution), The Gaussian Model (Renormalization Group)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 8 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec8)
+{{% resource_link d47fc5bd-d8ee-d8fc-75b6-5b2afb2ad83f "Lecture Note 8 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +171,7 @@ Expectation Values in the Gaussian Model, Expectation Values in Perturbation The
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 9 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec9)
+{{% resource_link 86257bb6-5cb9-976b-05ba-361a1b916011 "Lecture Note 9 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -182,7 +187,7 @@ Perturbative RG (First Order)
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 10 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec10)
+{{% resource_link 051af10c-926b-5c8b-2cea-fc7257669a65 "Lecture Note 10 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -198,7 +203,7 @@ Perturbative RG (Second Order), The ε-expansion
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 11 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec11)
+{{% resource_link 744468fd-c694-7017-6d28-35d268bd7837 "Lecture Note 11 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -214,7 +219,7 @@ Irrelevance of Other Interactions, Comments on the ε-expansion
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 12 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec12)
+{{% resource_link 2fe2e2ba-a4ad-b59f-a84c-83a261a62cfe "Lecture Note 12 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -230,7 +235,7 @@ Lattice Models, Exact Treatment in d=1
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 13 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec13)
+{{% resource_link 439ef03f-4c10-3b9a-7ba3-b1f53cd713b1 "Lecture Note 13 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -246,7 +251,7 @@ The Niemeijer-van Leeuwen Cumulant Approximation, The Migdal-Kadanoff Bond Movin
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 14 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec14)
+{{% resource_link 55848d43-45b6-ef63-8beb-66b413933427 "Lecture Note 14 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -262,7 +267,7 @@ Low-temperature Expansions, High-temperature Expansions, Exact Solution of the O
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 15 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec15)
+{{% resource_link 2f717b74-0bda-91c9-8806-95974b2b7192 "Lecture Note 15 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -278,7 +283,7 @@ Self-duality in the Two Dimensional Ising Model, Dual of the Three Dimensional I
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 16 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec16)
+{{% resource_link 63dce8a4-8224-f14f-0459-403b7a4cb44f "Lecture Note 16 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -294,7 +299,7 @@ Summing Over Phantom Loops
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 17 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec17)
+{{% resource_link be551c5a-bdaa-2a95-c900-fa9710258d1d "Lecture Note 17 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -310,7 +315,7 @@ Exact Free Energy of the Square Lattice Ising Model
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 18 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec18)
+{{% resource_link 8a0c97f4-1336-ab55-7a23-481c901235d3 "Lecture Note 18 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -326,7 +331,7 @@ Critical Behavior of the Two Dimensional Ising Model
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 19 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec19)
+{{% resource_link a569b31d-f281-0a6d-1b6e-23a371a6a3eb "Lecture Note 19 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -342,7 +347,7 @@ The Non-linear σ-model
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 20 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec20)
+{{% resource_link 632f79d0-b770-653e-da9f-09e1d882da0a "Lecture Note 20 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -358,7 +363,7 @@ Topological Defects in the XY Model
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 21 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec21)
+{{% resource_link 9adff7f0-a6fe-a792-c115-eb2322e74601 "Lecture Note 21 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -374,7 +379,7 @@ Renormalization Group for the Coulomb Gas
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 22 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec22)
+{{% resource_link 040c4abb-1d63-f9ad-3487-184ce8536d56 "Lecture Note 22 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -390,7 +395,7 @@ Two Dimensional Solids, Two Dimensional Melting
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 23 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec23)
+{{% resource_link e4e78b11-7317-2a09-f05b-f478f5352d7c "Lecture Note 23 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -406,7 +411,7 @@ Brownian Motion of a Particle
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 24 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec24)
+{{% resource_link 914d55f2-0250-bfd8-3c85-daee5f563433 "Lecture Note 24 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -422,7 +427,7 @@ Equilibrium Dynamics of a Field, Dynamics of a Conserved Field
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 25 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec25)
+{{% resource_link 85e0c629-b1cc-854d-5ab2-47f3a9c38f7a "Lecture Note 25 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -438,7 +443,7 @@ Generic Scale Invariance in Equilibrium Systems, Non-equilibrium Dynamics of Ope
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture Note 26 (PDF)]({{< baseurl >}}/resources/mit8_334s14_lec26)
+{{% resource_link 827c8021-5966-c04d-4067-095a96bf6d74 "Lecture Note 26 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

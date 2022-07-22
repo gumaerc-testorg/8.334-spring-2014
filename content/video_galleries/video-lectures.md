@@ -1,6 +1,10 @@
 ---
 content_type: video_gallery
+description: This section provides videos of the lecture sessions of the course.
 is_media_gallery: true
+learning_resource_types:
+- Lecture Videos
+ocw_type: CourseSection
 title: Video Lectures
 uid: 86911faa-c842-e452-952f-79962966aca9
 videos:
@@ -34,7 +38,7 @@ videos:
   website: 8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014
 ---
 
-The titles reflect content of the [lecture notes]({{< baseurl >}}/pages/lecture-notes), which may not completely reflect the sequence of the video lectures.
+The titles reflect content of the {{% resource_link b0c714e9-38c6-c784-de13-d617813af98b "lecture notes" %}}, which may not completely reflect the sequence of the video lectures.
 
 {{< video-gallery "86911faa-c842-e452-952f-79962966aca9" >}}
 

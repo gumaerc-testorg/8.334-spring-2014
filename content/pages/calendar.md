@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics, recitations, exams,
+  and assignment due dates for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 3704dbd2-7617-ad6a-bcda-9efa11a8fba0
 ---
