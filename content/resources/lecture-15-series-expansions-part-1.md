@@ -5,6 +5,7 @@ end_time: ''
 file: null
 learning_resource_types:
 - Lecture Videos
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: ''
 optional_tab_title: ''
 optional_text: ''
@@ -28,6 +29,4 @@ video_metadata:
 **Description:** In this lecture, Prof. Kardar introduces Series Expansions, including Low-temperature Expansions, High-temperature Expansions, and Exact Solution of the One Dimensional Ising Model.
 
 **Instructor:** Prof. Mehran Kardar
-
-
 

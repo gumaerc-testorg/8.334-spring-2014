@@ -6,6 +6,7 @@ file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spri
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'Statistical Mechanics II: Test 1 Review Solutions'
 uid: 376b14b2-45b9-a664-5cfc-d8a09b191935
 ---
 This file contains the information regarding Statistical Mechanics II: Test 1 Review Solutions.
-
