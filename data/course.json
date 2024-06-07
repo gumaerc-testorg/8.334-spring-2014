@@ -32,6 +32,7 @@
     "website": "8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014"
   },
   "course_title": "Statistical Mechanics II: Statistical Physics of Fields",
+  "hide_download": false,
   "course_description": "This is the second term in a two-semester course on statistical mechanics. Basic principles are examined in this class, such as the laws of thermodynamics and the concepts of temperature, work, heat, and entropy. Topics from modern statistical mechanics are also explored, including the hydrodynamic limit and classical field theories.\n",
   "department_numbers": [
     "8"
@@ -46,8 +47,7 @@
     "Problem Sets",
     "Exams",
     "Lecture Notes",
-    "Lecture Videos",
-    "Instructor Insights"
+    "Lecture Videos"
   ],
   "site_uid": "9c997acf-6fc9-4f8d-8c6b-f8f1b82ba854",
   "site_short_id": "8.334-spring-2014",
