@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/8221319fddacc25d0326922a999d7892_2Ep48LwBhAQ.pdf
+file_size: 96575
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

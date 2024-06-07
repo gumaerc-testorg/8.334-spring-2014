@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file contains the information regarding Statistical Mechanics II:
   Problem Set 1.'
 file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/9e801cef4da7859bc5b4b94dc55a1547_MIT8_334S14_pset1.pdf
+file_size: 119713
 file_type: application/pdf
 learning_resource_types:
 - Assignments
