@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/a82694de6d124a16b998a9d124941580_1_dMnMLbIok.pdf
+file: /ol-ocw-studio-app/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/a82694de6d124a16b998a9d124941580_1_dMnMLbIok.pdf
 file_size: 86507
 file_type: application/pdf
 learning_resource_types: []
