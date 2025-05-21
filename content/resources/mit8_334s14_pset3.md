@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Statistical Mechanics II:
   Problem Set 3.'
-file: /ol-ocw-studio-app/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/73dc054ee50666bca50948521c0b863a_MIT8_334S14_pset3.pdf
+file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/73dc054ee50666bca50948521c0b863a_MIT8_334S14_pset3.pdf
 file_size: 102177
 file_type: application/pdf
 learning_resource_types:
