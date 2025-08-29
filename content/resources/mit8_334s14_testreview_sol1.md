@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file contains the information regarding Statistical Mechanics II:
   Test 1 Review Solutions.'
-file: /courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/fcd5f9627c42dae60ef4da89c410b7b0_MIT8_334S14_TestReview_Sol1.pdf
+file: /ol-ocw-studio-app/courses/8-334-statistical-mechanics-ii-statistical-physics-of-fields-spring-2014/fcd5f9627c42dae60ef4da89c410b7b0_MIT8_334S14_TestReview_Sol1.pdf
 file_size: 248129
 file_type: application/pdf
 learning_resource_types:
