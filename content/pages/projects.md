@@ -23,7 +23,7 @@ Students can collaborate in groups provided that the respective contributions of
 Teaching Site
 -------------
 
-Design a web site that can be used to teach a topic related to Collective Behaviors to non-specialists. For example, imagine that a high school teacher of an honor-level science course would teach a one hour class session using the material on your web page. As such, you should include introductory materials, references that interested students can pursue on their own. The presentation must also be colorful and dynamic (e.g. by including figures, animations, applets, etc.) to engage and maintain the interests of a diverse non-specialist audience. As a model, you may wish to examine the following introduction to [Bose–Einstein condensation](http://www.britannica.com/science/Bose-Einstein-condensate).
+Design a web site that can be used to teach a topic related to Collective Behaviors to non-specialists. For example, imagine that a high school teacher of an honor-level science course would teach a one hour class session using the material on your web page. As such, you should include introductory materials, references that interested students can pursue on their own. The presentation must also be colorful and dynamic (e.g. by including figures, animations, applets, etc.) to engage and maintain the interests of a diverse non-specialist audience. As a model, you may wish to examine the following introduction to {{% resource_link "b6d20f5f-9710-4d95-9a5c-9adcd354251a" "Bose–Einstein condensation" %}}.
 
 This Year's Projects
 --------------------
