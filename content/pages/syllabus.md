@@ -45,7 +45,7 @@ Outline
 
 This course does not follow a particular text. The following are useful reference books:
 
-Kardar, Mehran. _Statistical Physics of Fields_. Cambridge University Press, 2007. ISBN: 9780521873413. \[Preview with {{% resource_link "893bbd42-2027-457e-babc-5b0cd07468fc" "Google Books" %}}\]
+Kardar, Mehran. _Statistical Physics of Fields_. Cambridge University Press, 2007. ISBN: 9780521873413. \[Preview with [Google Books](http://books.google.com/books?id=nTxBhGX01P4C&pg=PAfrontcover)\]
 
 Ma, Shang-keng. _Modern Theory of Critical Phenomena_. Addison-Wesley, 1976. ISBN: 9780805366709.
 
@@ -57,7 +57,7 @@ Huang, Kerson. _Statistical Mechanics_. 2nd ed. Wiley, 1987. ISBN: 9780471815181
 
 Negele, John W., and Henri Orland. _Quantum Many-particle Systems_.Perseus Books, 1988. ISBN: 9780201125931.
 
-Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with {{% resource_link "9f5b3202-1a76-4485-b657-875c38df1dfe" "Google Books" %}}\]
+Feynman, Richard Phillips. _Statistical Mechanics: A Set of Lectures_. Westview Press, 1998. ISBN: 9780201360769. \[Preview with [Google Books](http://books.google.com/books?id=A7RuDgAAQBAJ&pg=PAfrontcover)\]
 
 Parisi, Giorgio. _Statistical Field Theory_. Addison-Wesley, 1988. ISBN: 9780201059854.
 
@@ -78,7 +78,7 @@ Final Project
 
 Students choose one of the following two for a final project:
 
-1.  Research Project: Write a brief paper (two to four pages in {{% resource_link "86da88fc-1bbf-4d6b-a1e2-67e3ff933259" "Physical Review" %}} format) on a subject of your choice, relevant to the topics of this course.
+1.  Research Project: Write a brief paper (two to four pages in [Physical Review](http://journals.aps.org/prl/) format) on a subject of your choice, relevant to the topics of this course.
 2.  Teaching Site: Design a website that can be used to teach a topic related to Collective Behaviors to non-specialists.
 
 The final project counts for 25% of the course grade.
